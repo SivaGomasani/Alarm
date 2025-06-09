@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alarm/static/css/main.e04e7e50.css",
+    "main.js": "/alarm/static/js/main.1b13a30d.js",
+    "static/js/453.98346c13.chunk.js": "/alarm/static/js/453.98346c13.chunk.js",
+    "static/media/vijays_ringto_master.mp3": "/alarm/static/media/vijays_ringto_master.16e2729b4c10522cdef8.mp3",
+    "static/media/iphone_alarm.mp3": "/alarm/static/media/iphone_alarm.37a56f8320afe138604e.mp3",
+    "static/media/unkul_telugu.mp3": "/alarm/static/media/unkul_telugu.1b7bc3b7d8b85187c0d9.mp3",
+    "static/media/logo.svg": "/alarm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alarm/index.html",
+    "main.e04e7e50.css.map": "/alarm/static/css/main.e04e7e50.css.map",
+    "main.1b13a30d.js.map": "/alarm/static/js/main.1b13a30d.js.map",
+    "453.98346c13.chunk.js.map": "/alarm/static/js/453.98346c13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04e7e50.css",
+    "static/js/main.1b13a30d.js"
+  ]
+}
